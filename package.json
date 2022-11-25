@@ -3,7 +3,7 @@
     "description": "slugifies even utf-8 chars!",
     "version": "1.0.1",
     "homepage": "https://github.com/Trott/slug",
-    "author": "dodo (https://github.com/dodo)",
+    "author": "dodoo (https://github.com/dodo)",
     "repository": {
         "type": "git",
         "url": "git://github.com/Trott/slug.git"
